@@ -1,4 +1,6 @@
 # Netflix
+![Netflix](https://github.com/nayana142/Netflix/assets/120770261/70d10235-d014-43e4-9f3c-2dfb5c6ffd39)
+
 ## About Netflix
 Netflix is one of the most popular media and video streaming platforms. They have over 
 10000 movies or tv shows available on their platform, as of mid-2021, they have over 
